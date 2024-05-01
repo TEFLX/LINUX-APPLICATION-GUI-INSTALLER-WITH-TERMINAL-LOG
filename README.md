@@ -56,3 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 - The development team for their hard work and dedication.
 - The open-source community for their invaluable contributions and resources.
 - All users and contributors who have provided feedback and reported issues, helping to improve the project.
+
+## Images
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/fe2d254a-473e-4f4b-ab52-31e792eca237)
+
