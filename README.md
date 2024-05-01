@@ -49,8 +49,14 @@ Upon running the application, you will be presented with the main GUI window. Fr
 ## Contributing
 Contributions to the GUI Application Installer in Linux with Bug Finder project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
 
+## Contributing
+
+Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to contribute to this project.
+
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 - The development team for their hard work and dedication.
