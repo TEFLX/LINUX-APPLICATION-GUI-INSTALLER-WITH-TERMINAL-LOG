@@ -1,5 +1,5 @@
 # LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG
-##Introduction 
+## Introduction 
 The goal of the GUI Application Installer in Linux with terminal log project is to
 combine a bugfinding mechanism with an easier-to-use interface for installing software
 applications on the Linux operating system.
