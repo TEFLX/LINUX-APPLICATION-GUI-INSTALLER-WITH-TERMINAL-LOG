@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="mul_photos">
-    <file>chesse_logo.png</file>
-    <file>gimp_logo.png</file>
-    <file>multimedia_logo.png</file>
-    <file>um_logo.png</file>
-    <file>vlc_logo.png</file>
-  </qresource>
-</RCC>
