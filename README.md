@@ -33,9 +33,9 @@ Please ensure that your system meets the specified hardware and software require
 To install and use the GUI Application Installer in Linux with Bug Finder, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-repo/gui-app-installer.git`
-2. Navigate to the project directory: `cd gui-app-installer`
+2. Navigate to the project directory: `cd Sanp_craft_nexus/Login Installer`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the application: `python main.py`
+4. Run the application: `python finalloginUi4.py`
 
 ## Usage
 Upon running the application, you will be presented with the main GUI window. From here, you can:
