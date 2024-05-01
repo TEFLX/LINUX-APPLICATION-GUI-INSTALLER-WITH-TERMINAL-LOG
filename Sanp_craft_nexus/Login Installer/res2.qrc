@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Icons/code_editor-removebg-preview.png</file>
+    <file>Icons/download-removebg-preview.png</file>
+    <file>Icons/Graphics-removebg-preview.png</file>
+    <file>Icons/media-removebg-preview.png</file>
+    <file>Icons/Productivity-removebg-preview.png</file>
+    <file>Icons/Utiliti-removebg-preview.png</file>
+    <file>Icons/web_scan-removebg-preview.png</file>
+    <file>loho-removebg-preview.png</file>
+    <file>360_F_195508679_tMnsBg8hznqrvJNFPyZD7qFUyyzdc56M.jpg</file>
+  </qresource>
+</RCC>

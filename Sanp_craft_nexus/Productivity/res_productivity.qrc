@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="product">
+    <file>libre_logo.png</file>
+    <file>ms_logo.png</file>
+    <file>Productivity_logo.png</file>
+    <file>qt_logo.jpg</file>
+    <file>wine_logo.png</file>
+  </qresource>
+</RCC>

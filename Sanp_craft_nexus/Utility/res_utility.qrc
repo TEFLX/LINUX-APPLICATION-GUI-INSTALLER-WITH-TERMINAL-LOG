@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="utility">
+    <file>7_zip_logo.png</file>
+    <file>calculator_logo.png</file>
+    <file>file_m_logo.png</file>
+    <file>utility_logo.png</file>
+    <file>vim_logo.png</file>
+  </qresource>
+</RCC>
