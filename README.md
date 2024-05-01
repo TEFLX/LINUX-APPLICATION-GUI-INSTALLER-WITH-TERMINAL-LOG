@@ -14,6 +14,21 @@ implementing an intuitive graphical installation interface for software.
 - **Detailed Installation Logs**: Maintains comprehensive logs of installation processes, facilitating debugging and troubleshooting if needed.
 - **Secure Installation Practices**: Implements secure installation procedures to mitigate potential security risks and ensure the integrity of installed applications.
 
+## System Requirements
+
+### Hardware Requirements
+- **Operating System**: Linux operating system
+- **RAM**: Minimum 4 GB
+- **Hard Drive**: Maximum 100 GB
+
+### Software Requirements
+- **Python**
+- **PyQt**
+- **Subprocess module**
+- **Debian-based Linux distribution** (e.g., Ubuntu, Linux Mint)
+- **Fedora-based Linux distribution** (e.g., Fedora, Red Hat Enterprise Linux)
+
+Please ensure that your system meets the specified hardware and software requirements before installing and running the GUI Application Installer in Linux with Bug Finder.
 ## Installation
 To install and use the GUI Application Installer in Linux with Bug Finder, follow these steps:
 
