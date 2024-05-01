@@ -58,5 +58,27 @@ This project is licensed under the [MIT License](LICENSE).
 - All users and contributors who have provided feedback and reported issues, helping to improve the project.
 
 ## Images
+### Login 
 ![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/fe2d254a-473e-4f4b-ab52-31e792eca237)
+### Menu
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/cd382437-3c3d-4086-bc56-098dd6ac4e7d)
+### The menu page will give you permission to choose the categories of the software
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/2b9314a2-e04c-4221-81a2-463e07985baa)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/1b4baed1-cc81-4dd1-839f-68b68d18728b)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/cdc7a309-5cc9-4b6e-81cf-d0ea40d712d5)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/65a8740e-ce83-4ca0-b02d-89ccc79ca116)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/52c97810-eeed-459f-bbb2-a942c6b12b05)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/1a000c08-1ecb-4952-b321-98271248a129)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/bd954bf0-e833-4ccf-a01c-d2050ec61c52)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/2f73ddde-7511-4df9-a069-c4af86012ce5)
+![image](https://github.com/TEFLX03/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG/assets/129142214/9af1187e-8455-4a56-be9f-4c04a54dec3e)
+
+
+
+
+
+
+
+
+
 
