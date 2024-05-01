@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="tools">
+    <file>graphics_logo.png</file>
+    <file>jupyter_logo.png</file>
+    <file>meta_logo.png</file>
+    <file>mysql_logo.png</file>
+    <file>wireshark_logo.png</file>
+  </qresource>
+</RCC>

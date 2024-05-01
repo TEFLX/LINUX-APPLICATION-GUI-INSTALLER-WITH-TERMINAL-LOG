@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1258</width>
+    <height>1291</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QFrame" name="frame">
+    <property name="geometry">
+     <rect>
+      <x>-30</x>
+      <y>0</y>
+      <width>1251</width>
+      <height>841</height>
+     </rect>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QFrame" name="frame_2">
+     <property name="geometry">
+      <rect>
+       <x>110</x>
+       <y>160</y>
+       <width>1081</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QPushButton" name="push_tools_1">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>10</y>
+        <width>91</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+border: none</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset resource="res_tools.qrc">
+        <normaloff>:/tools/meta_logo.png</normaloff>:/tools/meta_logo.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>150</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>30</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Metasploit</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>10</y>
+        <width>791</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>A powerful penetration testing framework for discovering, exploiting, and managing vulnerabilities, aiding </string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_12">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>50</y>
+        <width>711</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>in cybersecurity assessments and defense strategies.</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QFrame" name="frame_8">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>20</y>
+       <width>791</width>
+       <height>121</height>
+      </rect>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>20</y>
+        <width>391</width>
+        <height>81</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Bauhaus 93</family>
+        <pointsize>40</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>TOOLS</string>
+      </property>
+     </widget>
+     <widget class="QFrame" name="frame_7">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>10</y>
+        <width>101</width>
+        <height>101</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">image: url(:/tools/graphics_logo.png);
+</string>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QFrame" name="frame_6">
+     <property name="geometry">
+      <rect>
+       <x>110</x>
+       <y>390</y>
+       <width>1081</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QLabel" name="label_10">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>30</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>My Sql</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_11">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>10</y>
+        <width>791</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>A popular open-source relational database management system, widely used for web applications, supporting </string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_13">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>50</y>
+        <width>711</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>data storage, retrieval, and management.</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="push_tools_3">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>91</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+border: none</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset resource="res_tools.qrc">
+        <normaloff>:/tools/mysql_logo.png</normaloff>:/tools/mysql_logo.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>200</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QFrame" name="frame_9">
+     <property name="geometry">
+      <rect>
+       <x>110</x>
+       <y>280</y>
+       <width>1081</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QLabel" name="label_14">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>30</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Wireshark</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_15">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>10</y>
+        <width>791</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>A powerful network protocol analyzer offering real-time traffic inspection, packet capture, and comprehensive</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_16">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>50</y>
+        <width>711</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>network troubleshooting tools for professionals.</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="push_tools_2">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>91</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+border: none</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset resource="res_tools.qrc">
+        <normaloff>:/tools/wireshark_logo.png</normaloff>:/tools/wireshark_logo.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>150</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QFrame" name="frame_10">
+     <property name="geometry">
+      <rect>
+       <x>110</x>
+       <y>510</y>
+       <width>1081</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QLabel" name="label_17">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>30</y>
+        <width>121</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Jupyter</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_18">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>10</y>
+        <width>791</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>Interactive, web-based platform for creating and sharing documents containing live code, equations, , </string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_19">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>50</y>
+        <width>711</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>visualizations and narrative text for data analysis.</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="push_tools_4">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>91</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+border: none</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset resource="res_tools.qrc">
+        <normaloff>:/tools/jupyter_logo.png</normaloff>:/tools/jupyter_logo.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>90</width>
+        <height>80</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1258</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="res_tools.qrc"/>
+ </resources>
+ <connections/>
+</ui>

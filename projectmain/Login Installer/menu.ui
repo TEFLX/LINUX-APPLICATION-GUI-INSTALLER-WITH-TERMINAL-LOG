@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1620</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>-90</y>
+     <width>1691</width>
+     <height>1231</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/images/360_F_195508679_tMnsBg8hznqrvJNFPyZD7qFUyyzdc56M.jpg);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>-60</y>
+     <width>561</width>
+     <height>371</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/images/loho-removebg-preview.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>340</y>
+     <width>210</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial Rounded MT Bold</family>
+     <pointsize>17</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 15px; 
+
+background-color: #ffffff;
+text-align: right;
+padding-right: 18px;
+</string>
+   </property>
+   <property name="text">
+    <string>  Multimedia</string>
+   </property>
+   <property name="icon">
+    <iconset resource="res2.qrc">
+     <normaloff>:/images/Icons/media-removebg-preview.png</normaloff>:/images/Icons/media-removebg-preview.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>95</width>
+     <height>48</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>530</y>
+     <width>210</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial Rounded MT Bold</family>
+     <pointsize>17</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 15px; 
+background-color: #ffffff;
+text-align: right;
+padding-right: 10px;</string>
+   </property>
+   <property name="text">
+    <string>Producitivity </string>
+   </property>
+   <property name="icon">
+    <iconset resource="res2.qrc">
+     <normaloff>:/images/Icons/Productivity-removebg-preview.png</normaloff>:/images/Icons/Productivity-removebg-preview.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>89</width>
+     <height>42</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>340</y>
+     <width>210</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial Rounded MT Bold</family>
+     <pointsize>17</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 15px; 
+background-color: #ffffff;
+text-align: right;
+padding-right: 18px;</string>
+   </property>
+   <property name="text">
+    <string>      Graphics</string>
+   </property>
+   <property name="icon">
+    <iconset resource="res2.qrc">
+     <normaloff>:/images/Icons/Graphics-removebg-preview.png</normaloff>:/images/Icons/Graphics-removebg-preview.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>85</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>970</x>
+     <y>340</y>
+     <width>210</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial Rounded MT Bold</family>
+     <pointsize>17</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 15px; 
+background-color: #ffffff;
+text-align: right;
+padding-right: 15px;</string>
+   </property>
+   <property name="text">
+    <string> Code Editor</string>
+   </property>
+   <property name="icon">
+    <iconset resource="res2.qrc">
+     <normaloff>:/images/Icons/code_editor-removebg-preview.png</normaloff>:/images/Icons/code_editor-removebg-preview.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>90</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>970</x>
+     <y>530</y>
+     <width>210</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial Rounded MT Bold</family>
+     <pointsize>17</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 15px; 
+background-color: #ffffff;
+text-align: right;
+padding-right: 15px;</string>
+   </property>
+   <property name="text">
+    <string>     Web Scan</string>
+   </property>
+   <property name="icon">
+    <iconset resource="res2.qrc">
+     <normaloff>:/images/Icons/web_scan-removebg-preview.png</normaloff>:/images/Icons/web_scan-removebg-preview.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>35</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>530</y>
+     <width>210</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial Rounded MT Bold</family>
+     <pointsize>17</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 15px; 
+background-color: #ffffff;
+text-align: right;
+padding-right: 15px;</string>
+   </property>
+   <property name="text">
+    <string>        Utilities </string>
+   </property>
+   <property name="icon">
+    <iconset resource="res2.qrc">
+     <normaloff>:/images/Icons/Utiliti-removebg-preview.png</normaloff>:/images/Icons/Utiliti-removebg-preview.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>85</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>370</y>
+     <width>51</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="res2.qrc"/>
+ </resources>
+ <connections/>
+</ui>
